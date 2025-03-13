@@ -54,7 +54,7 @@ const listOfProjects = [
         project_techstack: ['Python', 'Pandas', 'Numpy'],
         project_link: "https://github.com/Joseph-Champeau/MLR_Stock_Price_Prediction",
         project_source_code: "https://github.com/Joseph-Champeau/MLR_Stock_Price_Prediction",
-        project_screenshot: '/assets/projects/data.PNG'
+        project_screenshot: './assets/projects/data.PNG'
     },
     {
         id: 'p2',
@@ -63,7 +63,7 @@ const listOfProjects = [
         project_techstack: ['Java'],
         project_link: "https://github.com/Joseph-Champeau/SEG2105-F2021",
         project_source_code: "https://github.com/Joseph-Champeau/SEG2105-F2021/tree/main/Deliverable1Fixed",
-        project_screenshot: '/assets/projects/fitness.png'
+        project_screenshot: './assets/projects/fitness.png'
     }
 ]
 
